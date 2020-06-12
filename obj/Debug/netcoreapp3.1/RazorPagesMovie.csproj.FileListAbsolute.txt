@@ -1,0 +1,4 @@
+/Users/obinnaisiwekpeni/Projects/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.csprojAssemblyReference.cache
+/Users/obinnaisiwekpeni/Projects/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.AssemblyInfoInputs.cache
+/Users/obinnaisiwekpeni/Projects/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.AssemblyInfo.cs
+/Users/obinnaisiwekpeni/Projects/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.csproj.CoreCompileInputs.cache
